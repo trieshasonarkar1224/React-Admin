@@ -106,3 +106,18 @@ The authentication system checks permissions and roles, though in the demo, it r
 
 <br>
 Concluding the video with a summary of the React Admin features and a reference to code availability for further learning.
+<br>
+
+<Br>
+
+![Screenshot 2025-01-21 231634](https://github.com/user-attachments/assets/6943586d-e5f8-490c-ac63-62b0604234d5)
+
+
+![Screenshot 2025-01-21 231657](https://github.com/user-attachments/assets/8d104ae6-82e3-4f3c-8de4-ba78dd558a6c)
+
+
+![Screenshot 2025-01-21 231720](https://github.com/user-attachments/assets/db29b3f9-1fbd-43d0-9f67-56fbc915999d)
+
+
+
+
