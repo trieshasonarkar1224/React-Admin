@@ -12,7 +12,7 @@ Enlisted below are the things I learnt today. 👇
 
 
 
-Introduction to React Admin and its key features.
+✮ Introduction to React Admin and its key features.
 
 
 
@@ -28,7 +28,12 @@ React Admin is backend agnostic, working with any API using a data provider obje
 Basic building blocks of React Admin include the resource component, which defines CRUD routes and views like list, create, edit, and show.
 <br>
 
-Setting up the development environment.
+<br>
+
+
+✮ Setting up the development environment.
+
+<br>
 
 
 <br>
@@ -41,8 +46,13 @@ Setting up the environment involves running npm init react-admin, choosing a dat
 React Admin's main component is the admin component, which requires a layout and data provider. The app's structure is similar to a typical React SPA.
 <br>
 
-Creating resources and implementing CRUD functionalities.
 
+<br>
+
+
+✮ Creating resources and implementing CRUD functionalities.
+
+<br>
 
 <br>
 Adding a resource for posts, which includes views for listing, creating, editing, and showing records. The list view includes pagination and export options.
@@ -57,9 +67,11 @@ Customizing the data grid and displaying extracted text using function fields. A
 Implementing expandable rows in the data grid to show additional content using the useRecordContext hook.
 <br>
 
+<br>
 
-Enhancing the application with additional resources and views.
+✮ Enhancing the application with additional resources and views.
 
+<br>
 
 <br>
 Adding users as a new resource and creating a list view for users similar to posts. Implementing show views for both posts and users.
@@ -74,7 +86,13 @@ Implementing search and filter functionalities in the post list view using text 
 Customizing icons for resources and implementing a custom homepage for the admin panel.
 
 <br>
-Implementing authentication.
+
+<br>
+
+
+✮ Implementing authentication.
+
+<br>
 
 
 <br>
